@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Description: A program that print hello friend
+ * main - A program that prints a line with puts functio
  * Return: 0 (Success)
 */
 int main(void)
 {
-puts("hello, world");
+puts("Programming is like building a multilingual puzzle");
 }
